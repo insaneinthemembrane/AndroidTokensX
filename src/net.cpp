@@ -1139,10 +1139,9 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"dns.soporific.info", "dns.soporific.info"},
-    {"node.soporific.info", "node.soporific.info"},
-    {"connect.soporific.info", "connect.soporific.info"},
-    {"seed.soporific.info", "seed.soporific.info"},
+    {"45.58.48.93", "45.58.48.93"},
+    {"216.189.144.26", "216.189.144.26"},
+    {"83.93.111.63", "83.93.111.63"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
