@@ -31,4 +31,5 @@ There are a few differences between versions original  and 2, mainly because it 
 Wallet
 -------------
 
-[AndroidTokensX-qt Bitbucket]https://bitbucket.org/TRUMPINSANE/androidtokensx-qt/downloads/AndroidTokensX-qt.zip)
+[AndroidTokensX-qt-Bitbucket](https://bitbucket.org/TRUMPINSANE/androidtokensx-qt/downloads/AndroidTokensX-qt.zip)
+
